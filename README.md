@@ -1,2 +1,2 @@
 # ds-portfolio
-Collection of data science/analytics notebooks
+Collection of data analytics notebook projects, ranging from data cleaning, to visualizations, to probabilities. 
